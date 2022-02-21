@@ -1,4 +1,6 @@
 ### laylawarshaw.github.io (welcome heading)
 ![img_4971](https://github.com/laylawarshaw/laylawarshaw.github.io/blob/main/IMG_4971.jpg?raw=true)
-## Haiiiiiiiiiiiiiiiiiiiiiii this is where the intro goes so true slay yesssss I love writing.
-# [Chicken finger friday is tmew](https://lehigh.sodexomyway.com/dining-near-me/resident-dining)
+## My name is Layla- I'm in college studying jounalism both by miracle and a lot of hard work. I'm a cat person (I think this is very indicative to the kind of person I am). I love making and seeing art as well as creating content. Something I think about doing in the future is being on the business side of the arts, in any capacity. I'm enjoying being the multimedia editor and look forward to expanding The Brown and White's digital content. 
+# [Chicken finger friday is awesome](https://lehigh.sodexomyway.com/dining-near-me/resident-dining)
+# jekyll-remote-theme # add this line to the plugins list if you already have one
+# [My Linkedin](https://www.linkedin.com/in/layla-warshaw-4954a5225/)

@@ -7,3 +7,7 @@
 ### Graphic by ME 
 In just one year there's almost a 20% in selectivity- however some of that is reflected not just in the acceptance but in the number of applicants. Part of this may be due to the abnormalities of the COVID-19 delay in college readyiness as well as Lehigh's desire to expand. However the incoming classes have roughly the same size. 
 ![Lehigh Admissions](https://github.com/laylawarshaw/laylawarshaw.github.io/blob/main/Lehigh%20Admissions.png?raw=true) 
+# The United States of America is falling apart because lesbian bars keep closing! 
+## In a world where straight women get off on going out with their girl friends to drag shows, we live in a society where there is only a slightly more than a dozen lesbian bars. That number to be exact is a mere 21. A generous number considering that in the time the number of operations was recorded, several have closed their doors for good. One might imagine that major cities in America, ones flourishing stident and proud lgbt sectors may have at least a dozen lesbian bars alone. But alas, a mere 21 across almost one-third of an entire contient. Representing over 300 million people. While the resturant industry has struggled in and of itself, it's no where near the rate that gay oriented spaces, particular lesbian ones, are diminishing. 
+![Life. Not luggage](https://github.com/laylawarshaw/laylawarshaw.github.io/blob/main/Life.%20Not%20luggage..png?raw=true)
+### Inspired by the [Lesbian Bar Project](https://www.lesbianbarproject.com/)

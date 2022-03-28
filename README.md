@@ -22,4 +22,3 @@ In just one year there's almost a 20% in selectivity- however some of that is re
 # Week 9 Day 222
 ## Up untill Fall 2020, Lehigh University's admission rate ranged below 30%. In the years leading up to 2020's upward tick in acceptances, enrollment numbers in each college have showed subtle but important changes. In four years (between the fall of 2016 and 2020), enrollment in the College of Arts and Science increased by almost 400 students, while the School of Engineering saw a decrease of nearly 200 students in that same time. Enrollment in the College of Business remains consistent through that time, averaging aroung 1,260 students. 
 ![/Arts_&_Sciences_Business_Engineering_chartbuilder.png](https://github.com/laylawarshaw/laylawarshaw.github.io/blob/main/Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
-
